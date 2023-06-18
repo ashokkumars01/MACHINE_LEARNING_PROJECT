@@ -1,0 +1,24 @@
+[2023-06-18 11:47:28,078] werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[2023-06-18 11:47:28,079] werkzeug - INFO - [33mPress CTRL+C to quit[0m
+[2023-06-18 11:47:42,056] root - INFO - Error occured in scrip: [app.py] at line number: [13] error message: [We are testing custom exception]
+[2023-06-18 11:47:42,056] root - INFO - We are testing logging module
+[2023-06-18 11:47:42,057] werkzeug - INFO - 127.0.0.1 - - [18/Jun/2023 11:47:42] "GET / HTTP/1.1" 200 -
+[2023-06-18 11:47:42,816] root - INFO - Error occured in scrip: [app.py] at line number: [13] error message: [We are testing custom exception]
+[2023-06-18 11:47:42,817] root - INFO - We are testing logging module
+[2023-06-18 11:47:42,817] werkzeug - INFO - 127.0.0.1 - - [18/Jun/2023 11:47:42] "GET / HTTP/1.1" 200 -
+[2023-06-18 11:47:42,985] root - INFO - Error occured in scrip: [app.py] at line number: [13] error message: [We are testing custom exception]
+[2023-06-18 11:47:42,986] root - INFO - We are testing logging module
+[2023-06-18 11:47:42,986] werkzeug - INFO - 127.0.0.1 - - [18/Jun/2023 11:47:42] "GET / HTTP/1.1" 200 -
+[2023-06-18 11:47:43,147] root - INFO - Error occured in scrip: [app.py] at line number: [13] error message: [We are testing custom exception]
+[2023-06-18 11:47:43,147] root - INFO - We are testing logging module
+[2023-06-18 11:47:43,148] werkzeug - INFO - 127.0.0.1 - - [18/Jun/2023 11:47:43] "GET / HTTP/1.1" 200 -
+[2023-06-18 11:47:43,361] root - INFO - Error occured in scrip: [app.py] at line number: [13] error message: [We are testing custom exception]
+[2023-06-18 11:47:43,362] root - INFO - We are testing logging module
+[2023-06-18 11:47:43,362] werkzeug - INFO - 127.0.0.1 - - [18/Jun/2023 11:47:43] "GET / HTTP/1.1" 200 -
+[2023-06-18 11:47:43,536] root - INFO - Error occured in scrip: [app.py] at line number: [13] error message: [We are testing custom exception]
+[2023-06-18 11:47:43,536] root - INFO - We are testing logging module
+[2023-06-18 11:47:43,537] werkzeug - INFO - 127.0.0.1 - - [18/Jun/2023 11:47:43] "GET / HTTP/1.1" 200 -
+[2023-06-18 11:47:43,688] root - INFO - Error occured in scrip: [app.py] at line number: [13] error message: [We are testing custom exception]
+[2023-06-18 11:47:43,688] root - INFO - We are testing logging module
+[2023-06-18 11:47:43,689] werkzeug - INFO - 127.0.0.1 - - [18/Jun/2023 11:47:43] "GET / HTTP/1.1" 200 -
